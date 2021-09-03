@@ -9,7 +9,7 @@ const AboutStyle = styled.div`
     padding-bottom: 0;
     display: flex;
 `;
-
+ 
 const Sect1 = styled.div`
     @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 

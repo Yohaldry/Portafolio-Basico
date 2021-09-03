@@ -3,7 +3,7 @@ import {AboutS,Avatar,Img,Name,H2,Profession,Location,SeccionPrimary,S,Mod1,T,I,
   SeccionSegundary,SeccionTres,SeccionCuatro,PP,LL} from '../Styled/AboutStyled'
 
 
-function App() {
+function App() { 
   return (
     <AboutS>
       <Mod1>

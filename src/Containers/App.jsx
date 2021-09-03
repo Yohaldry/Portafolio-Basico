@@ -5,7 +5,7 @@ import About from '../Components/About';
 
 const GlobalStyle = styled.div`
     body{
-
+ 
         font-family: 'Lato', sans-serif;
         margin: 0;
         padding: 0;

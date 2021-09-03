@@ -8,7 +8,7 @@
  */
 /******/ (function() { // webpackBootstrap
 /******/ 	"use strict";
-/******/ 	var __webpack_modules__ = ({
+/******/ 	var __webpack_modules__ = ({ 
 
 /***/ "./src/index.js":
 /*!**********************!*\
